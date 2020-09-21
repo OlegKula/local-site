@@ -1,0 +1,40 @@
+header{
+    background: #3C3F41;
+    display: block;
+    position: relative;
+    z-index: 2;
+    color: #B2B2B2;
+}
+
+body {
+    background-color: #2B2B2B;
+    color: #B2B2B2;
+}
+
+header a{
+    color: #CC7832;
+}
+
+header a:visited{
+    color: #CC7832;
+}
+
+header a:active{
+    color: #D0D0D0;
+}
+
+a{
+    color: #D0D0D0;
+}
+
+a:visited{
+    color: #D0D0D0;
+}
+
+a:active{
+    color: white;
+}
+
+#content h1{
+    background-color: #2B2B2B;
+}

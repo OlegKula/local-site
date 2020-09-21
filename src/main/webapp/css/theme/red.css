@@ -1,0 +1,10 @@
+header{
+    background: #FFC2D2;
+    display: block;
+    position: relative;
+    z-index: 2;
+}
+
+body {
+    background-color: #973A4A;
+}

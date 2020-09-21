@@ -1,0 +1,23 @@
+#content{
+    margin-left: 220px;
+    background-color: white;
+}
+
+#content.three-col{
+    margin-right: 260px;
+}
+
+#colorChange{
+    position: absolute;
+    right: 30px;
+    top: 20px;
+}
+
+#topmenu li{
+    height: 66px;
+    display: inline-block;
+    text-align: center;
+    min-width: 120px;
+    top: 20px;
+    line-height: 66px;
+}

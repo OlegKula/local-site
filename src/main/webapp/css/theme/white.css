@@ -1,0 +1,11 @@
+header{
+    background: white;
+    display: block;
+    position: relative;
+    z-index: 2;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
